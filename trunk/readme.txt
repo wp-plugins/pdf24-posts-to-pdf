@@ -63,6 +63,9 @@ Insert the following code into any theme file, where you want to display a PDF l
 
 == Changelog ==
 
+= 3.0.8 =
+* Overworked a core part
+
 = 3.0.7 =
 * Added romanian language
 * Approved for wordpress 3.1
