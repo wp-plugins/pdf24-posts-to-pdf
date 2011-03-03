@@ -29,14 +29,14 @@ of the plugin. Plugin settings are provided in Wordpress admin area in settings 
 1. Activate the plugin through the 'Plugins' menu in WordPress admin area
 1. Configure the plugin in wordpress admin area Settings->PDF24 Plugin
 
-By default the plugin is configured to display a small PDF box below each article. You can change that in settings.
+By default the pdf24 plugin is configured to display a small PDF box below each article. You can change that in settings.
 The plugin can display boxes above or below each article, in the sidebar, on top or bottom of each page or you can place
 a PDF link everywhere in your blog. To enable or disable some of these boxes simply change the plugin settings.
 
-If you want to use the sidebar widget you have to enable the sidebar plugin. Then open the widget section and put the widget
+If you want to use the pdf24 sidebar widget you have to enable the sidebar plugin. Then open the widget section and put the widget
 into the sidebar.
 
-If you want to use the top/bottom box or the link plugin you have to insert some peace of code into a template file
+If you want to use the pdf24 top/bottom box or the link plugin you have to insert some peace of code into a template file
 where the box or the link shall appear.
 
 
