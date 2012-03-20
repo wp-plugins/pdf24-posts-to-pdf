@@ -59,6 +59,9 @@ Insert the following code into any theme file, where you want to display a PDF l
 
 == Changelog ==
 
+= 3.4.3 =
+* Fixed another minor bug when displaying Wordpress pages
+
 = 3.4.2 =
 * Fixed a minor bug in determining the blog url
 
