@@ -55,15 +55,15 @@ Insert the following code into any theme file, where you want to display a PDF l
 4. Links and boxes can be inserted in multiple places
 5. You can choose between multiple styles our you can customize each style
 6. You can place PDF links everywhere in your Wordpress Blog
-7. THe Plugin supports Wordpress Widgets
+7. The Plugin supports Wordpress Widgets
 
 == Changelog ==
 
 = 3.4.2 =
-* fixed a minor bug in determining the blog url
+* Fixed a minor bug in determining the blog url
 
 = 3.4.1 =
-* fixed a minor bug
+* Fixed a minor bug
 
 = 3.4 =
 * Overworked and improved some core parts of the plugin to realize the new features which follows below.
