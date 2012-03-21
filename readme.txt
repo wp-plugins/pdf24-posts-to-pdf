@@ -4,7 +4,7 @@ Donate link: http://www.pdf24.org/
 Tags: pdf, create pdf, convert to pdf, article to pdf, pdf plugin, pdf widget
 Requires at least: 1.5.0
 Tested up to: 3.3.1
-Stable tag: 3.4.2
+Stable tag: 3.4.3
 
 A plugin to create PDF files of articles in your blog. Visitors can create PDF files of one or more articles in your blog.
 
