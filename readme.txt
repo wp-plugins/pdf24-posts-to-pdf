@@ -334,8 +334,9 @@ All PDF24 plugin PDF bars, links and boxes automatically uses this information t
 article bars which are automatically added to the content of each article. If you use the above markup code then the article bars will be removed
 from the content and you have to insert some extra code where the article bar shall appear.
 
-This extra code is:
-	<?php pdf24Plugin_post(); ?>
+This extra code is
+
+<?php pdf24Plugin_post(); ?>
 	
 A sample code section of my test *loop.php* template file looks like this:
 
