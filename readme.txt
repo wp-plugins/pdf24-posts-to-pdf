@@ -116,6 +116,9 @@ If you have any problems with the installation or the custom fields support feel
 
 == Changelog ==
 
+= 3.8.0 =
+* Added support for SSL pages
+
 = 3.7.0 =
 * Checked against the newest Wordpress version
 * Improved styles and templates to improve the look and feel in new wordpress blogs
